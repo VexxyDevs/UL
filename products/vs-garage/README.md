@@ -10,7 +10,7 @@ _**A: Make sure that your server's license key is owned by the same**_ [_**keyma
 
 <mark style="color:green;">**Dependencies:**</mark>
 
-cd\_drawtextui (required) claim for free [here](https://codesign.pro/package/4299057)
+cd\_drawtextui (<mark style="color:red;">**required**</mark>) claim for free [here](https://codesign.pro/package/4299057)
 
-qb-core (required) download framework for free [here](https://github.com/qbcore-framework/qb-core)
+qb-core (<mark style="color:red;">**required**</mark>) download framework for free [here](https://github.com/qbcore-framework/qb-core)
 
