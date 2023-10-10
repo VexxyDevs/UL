@@ -1,8 +1,4 @@
-# 👮 vs-policejob
-
-
-
-![](../.gitbook/assets/VS-POPO.png)
+# 🚕 vs-garage
 
 <mark style="color:red;">**known errors**</mark> &#x20;
 
@@ -12,14 +8,5 @@ _**A: Make sure that your server's license key is owned by the same**_ [_**keyma
 
 
 
-**exports available:**
 
-**// server exports**&#x20;
 
-<mark style="color:blue;">exports\['vs-policejob']:checkapi()</mark>&#x20;
-
-<mark style="color:blue;">exports\['vs-policejob']:checkserver()</mark>
-
-**// client exports**
-
-<mark style="color:blue;">exports\['vs-policejob']:findinv()</mark>
